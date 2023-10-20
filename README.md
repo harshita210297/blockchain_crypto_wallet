@@ -1,7 +1,3 @@
-## Unit 19 Homework: Cryptocurrency Wallet
-
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
-
 # Blockchain : Crypto currency Wallet
 The aim of this project is to build a application where fintech professionals can be hired and paid using the Ethereum Blockchain Network. 
 
