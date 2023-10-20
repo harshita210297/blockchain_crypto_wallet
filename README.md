@@ -44,16 +44,19 @@ Hire Lane at an hourly rate of 0.2 ETH/hour.
 </center>
 
 ### Verifying the Address Balances on Ganache
+
 <center>
     <img src="Images/accounts.png">
 </center>
 
 ### Verifying the Blocks on Ganache
+
 <center>
     <img src="Images/blocks.png>
 </center>
 
 ### Verifying the Transactions on Ganache
+
 <center>
     <img src="Images/transactions.png>
 </center>
